@@ -4,6 +4,9 @@
 # Unity Ads (direkt)
 unity.com, 139655922, DIRECT, 96cabb5fbdde37a7
 
+# Meta Audience Network (direkt)
+facebook.com, 987774577389092, DIRECT, c3e20eee3f780d68
+
 # Unity Exchange – autorisierte Wiederverkäufer
 adwmg.com, 159512, RESELLER, c9688a22012618e7
 appads.in, 106246, RESELLER
